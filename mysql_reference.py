@@ -2,10 +2,10 @@ import mysql.connector
 
 # Establish the connection
 conn = mysql.connector.connect(
-    host="your_host",
-    user="your_username",
-    password="your_password",
-    database="your_database"
+    host="your_host",            #change your_host"
+    user="your_username",        #change your_username"
+    password="your_password",    #change your_password"
+    database="your_database_name"    #change your_database_name"
 )
 
 if conn.is_connected():
