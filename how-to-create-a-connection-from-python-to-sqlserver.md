@@ -16,6 +16,7 @@ First, you need to install the `pyodbc` library for Python. Open your terminal o
 
 ```sh
 pip install pyodbc
+```
 
 ## Step 2: Write code in python
 - Simple code: you can write the credential inside [the python code](https://github.com/erickpaulus/DB/blob/main/sqlserver_reference.py)
