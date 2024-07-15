@@ -18,5 +18,5 @@ First, you need to install the `pyodbc` library for Python. Open your terminal o
 pip install pyodbc
 
 ## Step 2: Write code in python
-- Simple code: you can write the credential inside [the python code](https://github.com/erickpaulus/DB/blob/main/mysql_reference.py)
+- Simple code: you can write the credential inside [the python code]([https://github.com/erickpaulus/DB/blob/main/mysql_reference.py](https://github.com/erickpaulus/DB/blob/main/sqlserver_reference.py))
 - Complex code: For safety reasons, you can separate the credentials from [the code](https://github.com/erickpaulus/DB/blob/main/connect_mysql.py) by using a [configuration file](https://github.com/erickpaulus/DB/blob/main/config.ini)
