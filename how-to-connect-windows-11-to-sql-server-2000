@@ -1,7 +1,4 @@
-# DB
-This repo contains the DB topics
-
-## Connect windows 11 to sql server 2000
+## How to Connect Windows 11 to SQL Server 2000
 I found a good solution in https://stackoverflow.com/questions/74531774/connect-windows-11-to-sql-server-2000.
 In summuray, Windows 11 has updated the encyption mechanishm to make it more robust. However, several old applications such as SQL Server 2000 can not support this new encryption method. One of the solution is to allow Windows 11 use previous encryption method as written in above link.
 
