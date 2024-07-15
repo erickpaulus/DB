@@ -9,12 +9,14 @@ In summuray, Windows 11 has updated the encyption mechanishm to make it more rob
 Steps:
 1. Add parameter using regedit HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Cryptography\Configuration\SSL\00010002
 2. Add Function
+3. 
+![](regedit.png)
 
  or
 
- 1. Download the 2024-05-17 Windows 11 enable older SSL cyphers.reg
+ 1. Download the 2024-05-17 Windows 11 enable older SSL cyphers.reg ([Download](https://octodex.github.com/images/minion.png "download") "download")
  2. open CMD as Administrator
  3. run 2024-05-17 Windows 11 enable older SSL cyphers.reg
 
-![Figure 1-1](https://raw.github.com/username/repo/master/images/figure 1-1.png "Figure 1-1")
+
 
