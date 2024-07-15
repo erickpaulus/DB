@@ -17,3 +17,6 @@ First, you need to install the MySQL Connector library for Python. Open your ter
 ```sh
 pip install mysql-connector-python  
 ```
+
+## Step 2: Write code in python
+[simple code](https://github.com/erickpaulus/DB/blob/main/mysql_reference.py)
