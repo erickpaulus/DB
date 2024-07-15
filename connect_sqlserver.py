@@ -3,7 +3,7 @@ import configparser
 
 # Parse the configuration file
 config = configparser.ConfigParser()
-config.read('config.ini')
+config.read('config_sqlserver.ini')
 
 # Retrieve the credentials from the configuration file
 db_config = {
