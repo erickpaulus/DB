@@ -19,4 +19,4 @@ pip install mysql-connector-python
 ```
 
 ## Step 2: Write code in python
-[simple code](https://github.com/erickpaulus/DB/blob/main/mysql_reference.py)
+- [simple code](https://github.com/erickpaulus/DB/blob/main/mysql_reference.py)
