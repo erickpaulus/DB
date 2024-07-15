@@ -14,7 +14,7 @@ Steps:
 
  or
 
- 1. Download the 2024-05-17 Windows 11 enable older SSL cyphers.reg ([Download](https://octodex.github.com/images/minion.png "download") "download")
+ 1. Download the 2024-05-17 Windows 11 enable older SSL cyphers.reg (https://github.com/erickpaulus/DB/blob/main/2024-05-17%20Windows%2011%20enable%20older%20SSL%20cyphers.reg)
  2. open CMD as Administrator
  3. run 2024-05-17 Windows 11 enable older SSL cyphers.reg
 
