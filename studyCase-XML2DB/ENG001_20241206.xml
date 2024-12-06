@@ -1,0 +1,73 @@
+<faculty>
+    <facultyName>Faculty of Engineering</facultyName>
+    <facultyID>ENG001</facultyID>
+    <generationDate>2024-12-06</generationDate>
+    <numberOfStudents>4</numberOfStudents>
+    <numberOfLecturers>4</numberOfLecturers>
+    <departments>
+        <department>
+            <departmentName>Computer Science</departmentName>
+            <departmentID>CS001</departmentID>
+            <students>
+                <student>
+                    <studentID>202410001</studentID>
+                    <name>John Doe</name>
+                    <dateOfBirth>2002-05-15</dateOfBirth>
+                    <program>Software Engineering</program>
+                    <enrollmentYear>2020</enrollmentYear>
+                </student>
+                <student>
+                    <studentID>202410002</studentID>
+                    <name>Jane Smith</name>
+                    <dateOfBirth>2001-08-22</dateOfBirth>
+                    <program>Artificial Intelligence</program>
+                    <enrollmentYear>2020</enrollmentYear>
+                </student>
+            </students>
+            <lecturers>
+                <lecturer>
+                    <lecturerID>LCS001</lecturerID>
+                    <name>Dr. Alice Johnson</name>
+                    <specialization>Machine Learning</specialization>
+                </lecturer>
+                <lecturer>
+                    <lecturerID>LCS002</lecturerID>
+                    <name>Prof. Bob Brown</name>
+                    <specialization>Computer Vision</specialization>
+                </lecturer>
+            </lecturers>
+        </department>
+        <department>
+            <departmentName>Electrical Engineering</departmentName>
+            <departmentID>EE001</departmentID>
+            <students>
+                <student>
+                    <studentID>202420001</studentID>
+                    <name>Michael White</name>
+                    <dateOfBirth>2000-11-10</dateOfBirth>
+                    <program>Power Systems</program>
+                    <enrollmentYear>2019</enrollmentYear>
+                </student>
+                <student>
+                    <studentID>202420002</studentID>
+                    <name>Laura Green</name>
+                    <dateOfBirth>1999-12-05</dateOfBirth>
+                    <program>Electronics</program>
+                    <enrollmentYear>2018</enrollmentYear>
+                </student>
+            </students>
+            <lecturers>
+                <lecturer>
+                    <lecturerID>LEE001</lecturerID>
+                    <name>Dr. Mark Taylor</name>
+                    <specialization>Control Systems</specialization>
+                </lecturer>
+                <lecturer>
+                    <lecturerID>LEE002</lecturerID>
+                    <name>Prof. Susan Davis</name>
+                    <specialization>Telecommunications</specialization>
+                </lecturer>
+            </lecturers>
+        </department>
+    </departments>
+</faculty>
